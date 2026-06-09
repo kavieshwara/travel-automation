@@ -1,0 +1,16 @@
+{
+  "name": "Karthik Travels",
+  "short_name": "Karthik Travels",
+  "description": "Tamil Nadu tour packages and vehicle rentals from Coimbatore.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#0f3441",
+  "icons": [
+    {
+      "src": "/karthiktravels_site_data/images/karthiktravels_in_images_karthik_travels_logo_jpg.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}

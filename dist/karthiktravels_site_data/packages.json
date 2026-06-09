@@ -1,0 +1,603 @@
+[
+  {
+    "type": "One Day Package",
+    "package": "Package 1",
+    "route": "Coimbatore, Marudamalai Temple, Perur Temple, Iysa Yoga, Echannari, Sri Mahalakshmi, Kovai kutralam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Marudamalai Temple",
+      "Perur Temple",
+      "Iysa Yoga",
+      "Echannari",
+      "Sri Mahalakshmi",
+      "Kovai kutralam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 2",
+    "route": "Coimbatore, Karamadai Ranganadar Temple, Then Thirupathi, Idukampalayam Anjinaya, Bathirakaliamman Temple, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Karamadai Ranganadar Temple",
+      "Then Thirupathi",
+      "Idukampalayam Anjinaya",
+      "Bathirakaliamman Temple",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 3",
+    "route": "Coimbatore, Masaniamman Temple, Alliar Dam, Monkey Falls, Valparai Balaji Temple, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Masaniamman Temple",
+      "Alliar Dam",
+      "Monkey Falls",
+      "Valparai Balaji Temple",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 4",
+    "route": "Coimbatore, Top Slip, Solaiar Dam,Masaniamman Temple, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Top Slip",
+      "Solaiar Dam",
+      "Masaniamman Temple",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 5",
+    "route": "Coimbatore, Bannari Amman Temple, Bavanisagar Dam, Kodevali Falls, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Bannari Amman Temple",
+      "Bavanisagar Dam",
+      "Kodevali Falls",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 6",
+    "route": "Coimbatore, Palani Murugan Temple, Thirumurti Falls, Amaravathi Dam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Palani Murugan Temple",
+      "Thirumurti Falls",
+      "Amaravathi Dam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 7",
+    "route": "Coimbatore, Coonor Sims Park, Ooty Rose Garden, Children's Park, Boat House. Botanical Garden, Totabata, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Coonor Sims Park",
+      "Ooty Rose Garden",
+      "Children's Park",
+      "Boat House. Botanical Garden",
+      "Totabata",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 8",
+    "route": "Coimbatore, Echannari, Aliyar Dam, Monkey falls, Valparai Balaji Temple, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Echannari",
+      "Aliyar Dam",
+      "Monkey falls",
+      "Valparai Balaji Temple",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 9",
+    "route": "Coimbatore, Kodaikanal – Silver falls, Kurunchi Andavar Kovil, View Point, Echo point, Suside point, Pillar rock, Guna Rock, Boat House, Garden, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Kodaikanal – Silver falls",
+      "Kurunchi Andavar Kovil",
+      "View Point",
+      "Echo point",
+      "Suside point",
+      "Pillar rock",
+      "Guna Rock",
+      "Boat House",
+      "Garden",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "One Day Package",
+    "package": "Package 10",
+    "route": "Coimbatore, Bathirakaliamman Temple, Black Thunder, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Bathirakaliamman Temple",
+      "Black Thunder",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 1",
+    "route": "Coimbatore, Coonor Sims park, Ooty Garden, Children's park, Boat House, Botanical Garden, Totabata, Pikara Boat house, Suiting point, Seven mills, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Coonor Sims park",
+      "Ooty Garden",
+      "Children's park",
+      "Boat House",
+      "Botanical Garden",
+      "Totabata",
+      "Pikara Boat house",
+      "Suiting point",
+      "Seven mills",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 2",
+    "route": "Coimbatore, Munnar, Variaru – Rajamalai, Munnar Park, Mattupetty Dam, Eco point, Old Mattupatty Dam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Munnar",
+      "Variaru – Rajamalai",
+      "Munnar Park",
+      "Mattupetty Dam",
+      "Eco point",
+      "Old Mattupatty Dam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 3",
+    "route": "Coimbatore, Kutralam, SankaranKovil, Srivalliputhur, Madurai, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Kutralam",
+      "SankaranKovil",
+      "Srivalliputhur",
+      "Madurai",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 4",
+    "route": "Coimbatore, Guruvayur, Elephant park, Chavakkad beach, Tirusur museum, Meenkulathi, Palakad Anjinaya Palace, Malampuzha Dam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Guruvayur",
+      "Elephant park",
+      "Chavakkad beach",
+      "Tirusur museum",
+      "Meenkulathi",
+      "Palakad Anjinaya Palace",
+      "Malampuzha Dam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 5",
+    "route": "Coimbatore, Kodaikanal – Silver falls, Boat house, Lake view, Suiting Area, Suside point, Guna rock, Kurunchi Andavar Kovil, Chetiyar park, Barjem to Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Kodaikanal – Silver falls",
+      "Boat house",
+      "Lake view",
+      "Suiting Area",
+      "Suside point",
+      "Guna rock",
+      "Kurunchi Andavar Kovil",
+      "Chetiyar park",
+      "Barjem to Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 6",
+    "route": "Coimbatore, Chamundi Isvari Temple, Zoo, Mysore Maharaja palace, Tipu sultan palace, Brindavan Garden, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Chamundi Isvari Temple",
+      "Zoo",
+      "Mysore Maharaja palace",
+      "Tipu sultan palace",
+      "Brindavan Garden",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 7",
+    "route": "Coimbatore, Yercaud, Green valley, Boat house, Eco point, View point, Suting area, Hogenakkal falls, Coimbatore.",
+    "places": [
+      "Coimbatore",
+      "Yercaud",
+      "Green valley",
+      "Boat house",
+      "Eco point",
+      "View point",
+      "Suting area",
+      "Hogenakkal falls",
+      "Coimbatore."
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Two Day Package",
+    "package": "Package 8",
+    "route": "Coimbatore, Chalakudi falls, Cochin harbor, Cochin Beach- Saray beach, Cochin boating, Cochin Veega land, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Chalakudi falls",
+      "Cochin harbor",
+      "Cochin Beach- Saray beach",
+      "Cochin boating",
+      "Cochin Veega land",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 1",
+    "route": "Coimbatore, Coonor Sims park, Ooty garden, Children's park, Boat house, Botanical garden, Totabata, Pikara boat house, Suiting point, Kodaikanal – Silver falls, Boat house, Lake view, Suiting area, Suside point, Guna rock, Kurunchi Andavar Kovil, Chetiyar park, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Coonor Sims park",
+      "Ooty garden",
+      "Children's park",
+      "Boat house",
+      "Botanical garden",
+      "Totabata",
+      "Pikara boat house",
+      "Suiting point",
+      "Kodaikanal – Silver falls",
+      "Boat house",
+      "Lake view",
+      "Suiting area",
+      "Suside point",
+      "Guna rock",
+      "Kurunchi Andavar Kovil",
+      "Chetiyar park",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 2",
+    "route": "Coimbatore, Coonor Sims park, Ooty garden, Children's park, Boat house, Botanical garden, Totabata, Pikara boat house, Suiting point, Mysore maharaja palace, Madesvar temple, Tipu sultan palace, Brindavan garden, Chamundi hills, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Coonor Sims park",
+      "Ooty garden",
+      "Children's park",
+      "Boat house",
+      "Botanical garden",
+      "Totabata",
+      "Pikara boat house",
+      "Suiting point",
+      "Mysore maharaja palace",
+      "Madesvar temple",
+      "Tipu sultan palace",
+      "Brindavan garden",
+      "Chamundi hills",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 3",
+    "route": "Coimbatore, Kodaikanal – Silver falls, Boat house, Lake view, Suiting area, Suside point, Guna rock, Kurunchi Andavar Kovil, Chetiyar park, Munnar, Variaru – Rajamalai, Munnar park, Mattupatty Dam, Eco point, Old Mattupatty Dam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Kodaikanal – Silver falls",
+      "Boat house",
+      "Lake view",
+      "Suiting area",
+      "Suside point",
+      "Guna rock",
+      "Kurunchi Andavar Kovil",
+      "Chetiyar park",
+      "Munnar",
+      "Variaru – Rajamalai",
+      "Munnar park",
+      "Mattupatty Dam",
+      "Eco point",
+      "Old Mattupatty Dam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 4",
+    "route": "Coimbatore, Mysore maharaja palace, Madesvar temple, Tipu sultan palace, Brindavan garden, Chamundi hills, Srirangapattanam, Saravanabalagula, Balur, AllaBallur, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Mysore maharaja palace",
+      "Madesvar temple",
+      "Tipu sultan palace",
+      "Brindavan garden",
+      "Chamundi hills",
+      "Srirangapattanam",
+      "Saravanabalagula",
+      "Balur",
+      "AllaBallur",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 5",
+    "route": "Coimbatore, Munnar, Variaru – Rajamalai, Munnar park, Mattupatty Dam, Eco point, Old Mattupatty Dam, Thekkady, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Munnar",
+      "Variaru – Rajamalai",
+      "Munnar park",
+      "Mattupatty Dam",
+      "Eco point",
+      "Old Mattupatty Dam",
+      "Thekkady",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 6",
+    "route": "Coimbatore, Rameshwaram, Dhanushkodi, Ramar patham, Tiruchendur, Thiruparamkundram, Meenakshi amman temple, Madurai, Pazhamuthircholai Temple, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Rameshwaram",
+      "Dhanushkodi",
+      "Ramar patham",
+      "Tiruchendur",
+      "Thiruparamkundram",
+      "Meenakshi amman temple",
+      "Madurai",
+      "Pazhamuthircholai Temple",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 7",
+    "route": "Coimbatore, Tiruchi, Srirangam, Samayapuram, Malakotai, Thiruvenikavu, Thanjavur, Kumbakonam, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Tiruchi",
+      "Srirangam",
+      "Samayapuram",
+      "Malakotai",
+      "Thiruvenikavu",
+      "Thanjavur",
+      "Kumbakonam",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Three Day Package",
+    "package": "Package 8",
+    "route": "Coimbatore, Rameshwaram, Dhanushkodi, Ramar patham, Madurai, Kanniyakumari, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Rameshwaram",
+      "Dhanushkodi",
+      "Ramar patham",
+      "Madurai",
+      "Kanniyakumari",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 1",
+    "route": "Coimbatore, Munnar, Thekadi, Alleppy, Cochin, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Munnar",
+      "Thekadi",
+      "Alleppy",
+      "Cochin",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 2",
+    "route": "Coimbatore, Ooty, Kodaikanal, Munnar, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Ooty",
+      "Kodaikanal",
+      "Munnar",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 3",
+    "route": "Coimbatore, Rameswaram, Thoothukudi Harbour, Thiruchendhur, Kaniyakumari, Susindaram, Manimuthuram falls, Papanasam, Tirunelveli, Thenkasi, Kutralam, Madurai, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Rameswaram",
+      "Thoothukudi Harbour",
+      "Thiruchendhur",
+      "Kaniyakumari",
+      "Susindaram",
+      "Manimuthuram falls",
+      "Papanasam",
+      "Tirunelveli",
+      "Thenkasi",
+      "Kutralam",
+      "Madurai",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 4",
+    "route": "Coimbatore, Thiruvannamalai, Kanchipuram, Solingar, Thiruthani, Thirupathi, Kalakasthi, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Thiruvannamalai",
+      "Kanchipuram",
+      "Solingar",
+      "Thiruthani",
+      "Thirupathi",
+      "Kalakasthi",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 5",
+    "route": "Coimbatore, Mysore, Maharaja palace, Dharmastala, Sri Mookambika, Goa, Balur, AllaBallur, Saravana balla bulla, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Mysore",
+      "Maharaja palace",
+      "Dharmastala",
+      "Sri Mookambika",
+      "Goa",
+      "Balur",
+      "AllaBallur",
+      "Saravana balla bulla",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 6",
+    "route": "Coimbatore, Thanjavur, Kumbakonam, Navagraha temple, Vaitheeswaran Temple, Sirkali, Poombukar, Thirukadiyur, Karaikal, Vellankani, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Thanjavur",
+      "Kumbakonam",
+      "Navagraha temple",
+      "Vaitheeswaran Temple",
+      "Sirkali",
+      "Poombukar",
+      "Thirukadiyur",
+      "Karaikal",
+      "Vellankani",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 7",
+    "route": "Coimbatore, Trichy, Srirangam, Samaiapuram, Malaikottai, Thiruvenikavu, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Trichy",
+      "Srirangam",
+      "Samaiapuram",
+      "Malaikottai",
+      "Thiruvenikavu",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  },
+  {
+    "type": "Five Day Package",
+    "package": "Package 8",
+    "route": "Coimbatore, Thanjavur, Kumbakonam, Navagraha temple, Vaitheeswaran Temple, Sirkali, Chidambaram, Kadalur, Pondicherry, Coimbatore",
+    "places": [
+      "Coimbatore",
+      "Thanjavur",
+      "Kumbakonam",
+      "Navagraha temple",
+      "Vaitheeswaran Temple",
+      "Sirkali",
+      "Chidambaram",
+      "Kadalur",
+      "Pondicherry",
+      "Coimbatore"
+    ],
+    "price": null,
+    "priceNote": "No price is listed on the source website."
+  }
+]

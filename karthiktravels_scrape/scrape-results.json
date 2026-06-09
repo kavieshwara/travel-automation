@@ -1,0 +1,66 @@
+[
+  {
+    "page": "home",
+    "title": "Welcome to Karthik Travels (Tourist Vehicle Operators) - Coimbatore, Tamilnadu, India",
+    "imagesInDom": 16,
+    "assetsObserved": {
+      "byKind": {
+        "font": 0,
+        "image": 19,
+        "other": 0,
+        "script": 13,
+        "stylesheet": 5,
+        "video": 0
+      },
+      "inlineSvgCount": 0,
+      "totalCount": 37
+    },
+    "downloaded": {
+      "downloadedCount": 19,
+      "elapsedMs": 6349.6837499999965,
+      "failedCount": 0,
+      "requestedCount": 19
+    },
+    "failures": 0
+  },
+  {
+    "page": "about",
+    "title": "About Karthik Travels (Tourist Vehicle Operators) - Coimbatore, Tamilnadu, India",
+    "imagesInDom": 17,
+    "assetsObserved": {
+      "byKind": {
+        "font": 0,
+        "image": 13,
+        "other": 1,
+        "script": 13,
+        "stylesheet": 4,
+        "video": 0
+      },
+      "inlineSvgCount": 0,
+      "totalCount": 31
+    },
+    "downloaded": {
+      "downloadedCount": 13,
+      "elapsedMs": 3051.8600000000006,
+      "failedCount": 0,
+      "requestedCount": 13
+    },
+    "failures": 0
+  },
+  {
+    "page": "gallery",
+    "error": "Timed out translating CDP input command \"Input.dispatchMouseEvent\" for tab 1"
+  },
+  {
+    "page": "gallery1",
+    "error": "Timed out waiting for tab 1 to navigate to https://karthiktravels.in/gallery1.html."
+  },
+  {
+    "page": "tour",
+    "error": "Timed out waiting for tab 1 to navigate to https://karthiktravels.in/tour.html."
+  },
+  {
+    "page": "contact",
+    "error": "Timed out running CDP command \"Page.navigate\" for tab 1"
+  }
+]

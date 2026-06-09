@@ -1,0 +1,77 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "id": "713c54847df0b2c2",
+      "kind": "image",
+      "name": "icon_face.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/713c54847df0b2c2.jpg",
+      "url": "https://karthiktravels.in/images/icon_face.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "172a4f0d4bd17137",
+      "kind": "image",
+      "name": "icon_mail.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/172a4f0d4bd17137.jpg",
+      "url": "https://karthiktravels.in/images/icon_mail.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c6d71548404bf879",
+      "kind": "image",
+      "name": "tour1.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/c6d71548404bf879.jpg",
+      "url": "https://karthiktravels.in/images/tour1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "de8ca65fd59e6896",
+      "kind": "image",
+      "name": "karthik_travels_logo.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/de8ca65fd59e6896.jpg",
+      "url": "https://karthiktravels.in/images/karthik_travels_logo.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a825db3a2687434c",
+      "kind": "image",
+      "name": "20.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/a825db3a2687434c.jpg",
+      "url": "https://karthiktravels.in/gallery/interior/20.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e667b72620d452a3",
+      "kind": "image",
+      "name": "21.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/e667b72620d452a3.jpg",
+      "url": "https://karthiktravels.in/gallery/interior/21.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bd4e70e771c3d7b6",
+      "kind": "image",
+      "name": "23.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/bd4e70e771c3d7b6.jpg",
+      "url": "https://karthiktravels.in/gallery/interior/23.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "954ab84f4549bb80",
+      "kind": "image",
+      "name": "atmo_bg.jpg",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/954ab84f4549bb80.jpg",
+      "url": "https://karthiktravels.in/images/atmo_bg.jpg"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "734b7b4d5b6e38b0",
+      "kind": "image",
+      "name": "arr1.gif",
+      "path": "/var/folders/jq/fht2mcl53kb0q0q19kcywbk80000gn/T/browser-use/assets/4c284d07-cb70-46da-865a-8fed0faac43e/734b7b4d5b6e38b0.gif",
+      "url": "https://karthiktravels.in/images/arr1.gif"
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Karthik Travels WhatsApp Booking Simulator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="public/simulator.css" />
+  </head>
+  <body class="simulator-page">
+    <main class="simulator-shell">
+      <section class="simulator-panel">
+        <div class="simulator-header">
+          <a class="brand" href="/">
+            <img src="karthiktravels_site_data/images/karthiktravels_in_images_karthik_travels_logo_jpg.jpg" alt="Karthik Travels" />
+          </a>
+          <div>
+            <p class="mini-label">Local simulator</p>
+            <h1>WhatsApp booking automation test</h1>
+          </div>
+        </div>
+        <div class="simulator-layout">
+          <section class="phone-frame" aria-label="Chat simulator">
+            <div class="phone-top">
+              <span>Karthik Travels Bot</span>
+              <small>Local test mode</small>
+            </div>
+            <div class="chat-log" data-chat-log></div>
+            <form class="chat-form" data-chat-form>
+              <input type="text" name="message" autocomplete="off" placeholder="Type a reply or option number" />
+              <button type="submit">Send</button>
+            </form>
+          </section>
+          <aside class="simulator-sidebar">
+            <h2>Test shortcuts</h2>
+            <button type="button" data-send="Hi, I want to book a trip.">Start booking</button>
+            <button type="button" data-send="2">Coimbatore</button>
+            <button type="button" data-send="4">5-8 people</button>
+            <button type="button" data-send="3">Full day package</button>
+            <button type="button" data-send="Confirm booking">Confirm booking</button>
+            <button type="button" data-reset>Reset test</button>
+            <h2>Latest session</h2>
+            <pre data-session-output>{}</pre>
+          </aside>
+        </div>
+      </section>
+    </main>
+    <script src="public/simulator.js"></script>
+  </body>
+</html>

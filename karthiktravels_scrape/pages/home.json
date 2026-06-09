@@ -1,0 +1,953 @@
+{
+  "headings": [
+    {
+      "level": "h2",
+      "text": "For Booking : +91 0422 2443533"
+    },
+    {
+      "level": "h3",
+      "text": "+91 0422 2433544"
+    },
+    {
+      "level": "h1",
+      "text": "Quick Enquiry"
+    },
+    {
+      "level": "h1",
+      "text": "Welcome to Karthik Travels"
+    },
+    {
+      "level": "h1",
+      "text": "Tour Packages"
+    },
+    {
+      "level": "h3",
+      "text": "Photo Gallery"
+    },
+    {
+      "level": "h3",
+      "text": "Contact Us"
+    }
+  ],
+  "images": [
+    {
+      "alt": "face",
+      "height": 24,
+      "src": "https://karthiktravels.in/images/icon_face.jpg",
+      "title": "",
+      "width": 24
+    },
+    {
+      "alt": "mail",
+      "height": 24,
+      "src": "https://karthiktravels.in/images/icon_mail.jpg",
+      "title": "",
+      "width": 24
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 70,
+      "src": "https://karthiktravels.in/images/karthik_travels_logo.jpg",
+      "title": "",
+      "width": 300
+    },
+    {
+      "alt": "tour",
+      "height": 175,
+      "src": "https://karthiktravels.in/images/tour.jpg",
+      "title": "",
+      "width": 290
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/01.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/02.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/03.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/04.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/05.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/06.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/01.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/02.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/03.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/04.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/05.jpg",
+      "title": "",
+      "width": 240
+    },
+    {
+      "alt": "Karthik Travels",
+      "height": 140,
+      "src": "https://karthiktravels.in/images/gallery/06.jpg",
+      "title": "",
+      "width": 240
+    }
+  ],
+  "links": [
+    {
+      "href": "https://karthiktravels.in/#menu",
+      "text": "Main Menu"
+    },
+    {
+      "href": "https://karthiktravels.in/index.php",
+      "text": "Home"
+    },
+    {
+      "href": "https://karthiktravels.in/about.html",
+      "text": "About Us"
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": "Photo Gallery"
+    },
+    {
+      "href": "https://karthiktravels.in/tour.html",
+      "text": "Tour Packages"
+    },
+    {
+      "href": "https://karthiktravels.in/contact.php",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://www.facebook.com/pages/Karthik-Travels/442943182547226",
+      "text": ""
+    },
+    {
+      "href": "mailto:info@karthiktravels.in",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/index.php",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/tour.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery1.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery1.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery1.html",
+      "text": ""
+    },
+    {
+      "href": "https://karthiktravels.in/gallery1.html",
+      "text": ""
+    },
+    {
+      "href": "mailto:info@karthiktravels.in",
+      "text": "info@karthiktravels.in"
+    },
+    {
+      "href": "https://karthiktravels.in/index.php",
+      "text": "Home"
+    },
+    {
+      "href": "https://karthiktravels.in/about.html",
+      "text": "About Us"
+    },
+    {
+      "href": "https://karthiktravels.in/gallery.html",
+      "text": "Photo Gallery"
+    },
+    {
+      "href": "https://karthiktravels.in/tour.html",
+      "text": "Tour Packages"
+    },
+    {
+      "href": "https://karthiktravels.in/contact.php",
+      "text": "Contact Us"
+    }
+  ],
+  "title": "Welcome to Karthik Travels (Tourist Vehicle Operators) - Coimbatore, Tamilnadu, India",
+  "url": "https://karthiktravels.in/",
+  "visibleText": "Home About Us Photo Gallery Tour Packages Contact Us Connect Us For Booking : +91 0422 2443533 +91 0422 2433544 Quick Enquiry Welcome to Karthik Travels Karthik Travels was founded on 1985. With 30 years of successful business by making our customers happy and satisfied, we are marching ahead to explore new horizons by the goodwill and reputation that we have garnered so far in this service. The company is sphere-headed by our Managing Director Mr.R.Paarthasarathy (Vijayan), under his able guidance, we are striving to bring the best from us and to make our customer pleased and fulfilled. Tour Packages Photo Gallery Contact Us Chemical House, Old No: 18 - New No: 24, Bharathi park 4th Cross Street, Near BSNL Office, Saibaba Colony, Coimbatore - 641 011, Tamilnadu, INDIA. P : +91 0422 2443533, 2433544, 2445338 M : +91 94431 33465 E : info@karthiktravels.in © 2015 - Karthik Travels / All Righst Reserved",
+  "assetInventory": {
+    "assets": [
+      {
+        "id": "af326c5daa3b50ee",
+        "kind": "stylesheet",
+        "name": "style.css",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "link"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 75,
+            "property": "href"
+          }
+        ],
+        "url": "https://karthiktravels.in/css/style.css"
+      },
+      {
+        "id": "bfae131a2c76f188",
+        "kind": "stylesheet",
+        "name": "menu.css",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "link"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 77,
+            "property": "href"
+          }
+        ],
+        "url": "https://karthiktravels.in/css/menu.css"
+      },
+      {
+        "id": "b64d87a1569be774",
+        "kind": "stylesheet",
+        "name": "banner.css",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "link"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 79,
+            "property": "href"
+          }
+        ],
+        "url": "https://karthiktravels.in/css/banner.css"
+      },
+      {
+        "id": "78732e60cdb3476a",
+        "kind": "stylesheet",
+        "name": "scroll.css",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "link"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 81,
+            "property": "href"
+          }
+        ],
+        "url": "https://karthiktravels.in/css/scroll.css"
+      },
+      {
+        "id": "1ff80c9a62045b62",
+        "kind": "stylesheet",
+        "name": "responsive.css",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "link"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 83,
+            "property": "href"
+          }
+        ],
+        "url": "https://karthiktravels.in/css/responsive.css"
+      },
+      {
+        "id": "333547b05156def3",
+        "kind": "script",
+        "name": "jquery.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 86,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/jquery.js"
+      },
+      {
+        "id": "ee0ffa8923fce37b",
+        "kind": "script",
+        "name": "jquery.jpanelmenu.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 88,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/jquery.jpanelmenu.js"
+      },
+      {
+        "id": "13c01427c7b51aa3",
+        "kind": "script",
+        "name": "jquery.themepunch.plugins.min.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 90,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/jquery.themepunch.plugins.min.js"
+      },
+      {
+        "id": "3c97e4a1de1bd945",
+        "kind": "script",
+        "name": "jquery.themepunch.revolution.min.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 92,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/jquery.themepunch.revolution.min.js"
+      },
+      {
+        "id": "753c04c6486b8016",
+        "kind": "script",
+        "name": "hoverIntent.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 94,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/hoverIntent.js"
+      },
+      {
+        "id": "d4d33087cd5b4f35",
+        "kind": "script",
+        "name": "superfish.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 96,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/superfish.js"
+      },
+      {
+        "id": "053c1d741ee2dc88",
+        "kind": "script",
+        "name": "custom.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 98,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/scripts/custom.js"
+      },
+      {
+        "id": "b033e05f32ac9cdc",
+        "kind": "script",
+        "name": "scroll.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 102,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/js/scroll.js"
+      },
+      {
+        "id": "7c51b1c4108cb0d7",
+        "kind": "script",
+        "name": "scroll1.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 104,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/js/scroll1.js"
+      },
+      {
+        "id": "37a2f2da03019cfd",
+        "kind": "script",
+        "name": "scroll2.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 106,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/js/scroll2.js"
+      },
+      {
+        "id": "210070d8f3c5f577",
+        "kind": "script",
+        "name": "scroll3.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 108,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/js/scroll3.js"
+      },
+      {
+        "id": "1dc89da21d19bfb8",
+        "kind": "script",
+        "name": "validate.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 113,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/js/validate.js"
+      },
+      {
+        "id": "713c54847df0b2c2",
+        "kind": "image",
+        "name": "icon_face.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 41,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/icon_face.jpg"
+      },
+      {
+        "id": "172a4f0d4bd17137",
+        "kind": "image",
+        "name": "icon_mail.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 42,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/icon_mail.jpg"
+      },
+      {
+        "id": "de8ca65fd59e6896",
+        "kind": "image",
+        "name": "karthik_travels_logo.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 43,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/karthik_travels_logo.jpg"
+      },
+      {
+        "id": "e614e9797dc02cd8",
+        "kind": "image",
+        "name": "banner00.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 53,
+            "property": "background-image"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 54,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner00.jpg"
+      },
+      {
+        "id": "7cacd4d6529b3460",
+        "kind": "image",
+        "name": "banner01.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 204,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner01.jpg"
+      },
+      {
+        "id": "33663717c26db46f",
+        "kind": "image",
+        "name": "banner02.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 208,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner02.jpg"
+      },
+      {
+        "id": "72ddb0cfedc20d93",
+        "kind": "image",
+        "name": "banner03.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 212,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner03.jpg"
+      },
+      {
+        "id": "13a4d29508cf6d09",
+        "kind": "image",
+        "name": "banner04.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 216,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner04.jpg"
+      },
+      {
+        "id": "d825ce0c3a1fb729",
+        "kind": "image",
+        "name": "banner05.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 220,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner05.jpg"
+      },
+      {
+        "id": "616f03449aac4a31",
+        "kind": "image",
+        "name": "banner06.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 52,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/banner/banner06.jpg"
+      },
+      {
+        "id": "762c091776834b99",
+        "kind": "image",
+        "name": "tour.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 44,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/tour.jpg"
+      },
+      {
+        "id": "5a52859b8d18e41c",
+        "kind": "image",
+        "name": "01.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 45,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 316,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/01.jpg"
+      },
+      {
+        "id": "b0fb7700e1d8f13f",
+        "kind": "image",
+        "name": "02.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 46,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 319,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/02.jpg"
+      },
+      {
+        "id": "8ecd3b94e4f0a5e3",
+        "kind": "image",
+        "name": "03.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 47,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 322,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/03.jpg"
+      },
+      {
+        "id": "ffe35bd609a090c5",
+        "kind": "image",
+        "name": "04.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 307,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 325,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/04.jpg"
+      },
+      {
+        "id": "9b9d71d39cb1139b",
+        "kind": "image",
+        "name": "05.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 310,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 328,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/05.jpg"
+      },
+      {
+        "id": "4beae49944433e9c",
+        "kind": "image",
+        "name": "06.jpg",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "img"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 313,
+            "property": "src"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 331,
+            "property": "src"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/gallery/06.jpg"
+      },
+      {
+        "id": "f81d4c26afadd15d",
+        "kind": "script",
+        "name": "analytics.js",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "script"
+          },
+          {
+            "kind": "attribute",
+            "nodeId": 85,
+            "property": "src"
+          }
+        ],
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "id": "1e8c4118c582edf0",
+        "kind": "image",
+        "name": "arr_lft.png",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "css"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 48,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/arr_lft.png"
+      },
+      {
+        "id": "1c56e07761bfc863",
+        "kind": "image",
+        "name": "arr_rht.png",
+        "sources": [
+          {
+            "kind": "resource",
+            "property": "css"
+          },
+          {
+            "kind": "computedStyle",
+            "nodeId": 49,
+            "property": "background-image"
+          }
+        ],
+        "url": "https://karthiktravels.in/images/arr_rht.png"
+      }
+    ],
+    "id": "41d82c60-7707-409c-81ec-6e721228bbd1",
+    "inlineSvgs": [],
+    "pageUrl": "https://karthiktravels.in/",
+    "summary": {
+      "byKind": {
+        "font": 0,
+        "image": 19,
+        "other": 0,
+        "script": 13,
+        "stylesheet": 5,
+        "video": 0
+      },
+      "inlineSvgCount": 0,
+      "totalCount": 37
+    }
+  },
+  "bundleSummary": {
+    "downloadedCount": 19,
+    "elapsedMs": 6349.6837499999965,
+    "failedCount": 0,
+    "requestedCount": 19
+  },
+  "bundleFailures": []
+}

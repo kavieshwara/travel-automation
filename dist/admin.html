@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Karthik Travels Admin Console</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="admin.css?v=admin-2" />
+  </head>
+  <body>
+    <div class="admin-shell">
+      <aside class="admin-sidebar">
+        <a class="brand-lockup" href="/">
+          <img src="karthiktravels_site_data/images/karthiktravels_in_images_karthik_travels_logo_jpg.jpg" alt="Karthik Travels" />
+          <span>Admin</span>
+        </a>
+        <nav aria-label="Admin navigation">
+          <a class="active" href="#overview">Overview</a>
+          <a href="#bookings">Bookings</a>
+          <a href="#packages">Packages</a>
+          <a href="#gallery">Photos</a>
+          <a href="#settings">Settings</a>
+        </nav>
+        <div class="sidebar-note">
+          <strong>Local admin mode</strong>
+          <span>Works locally now. Add the KT_DB D1 binding to sync bookings and edits across devices.</span>
+        </div>
+      </aside>
+
+      <main class="admin-main">
+        <header class="admin-topbar">
+          <div>
+            <span class="eyebrow">Karthik Travels</span>
+            <h1>Travel operations dashboard</h1>
+          </div>
+          <div class="topbar-actions">
+            <a class="ghost-btn" href="/">View website</a>
+            <button class="primary-btn" type="button" data-open-new-booking>New booking</button>
+          </div>
+        </header>
+
+        <section class="status-strip" id="overview">
+          <article>
+            <span>Total bookings</span>
+            <strong data-stat-total>0</strong>
+          </article>
+          <article>
+            <span>New enquiries</span>
+            <strong data-stat-new>0</strong>
+          </article>
+          <article>
+            <span>Confirmed</span>
+            <strong data-stat-confirmed>0</strong>
+          </article>
+          <article>
+            <span>Packages live</span>
+            <strong data-stat-packages>0</strong>
+          </article>
+        </section>
+
+        <section class="panel-grid">
+          <article class="panel wide-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="mini-label">Bookings</span>
+                <h2>Recent travel enquiries</h2>
+              </div>
+              <div class="inline-actions">
+                <button class="ghost-btn small" type="button" data-export-bookings>Export CSV</button>
+                <button class="ghost-btn small" type="button" data-seed-bookings>Load samples</button>
+              </div>
+            </div>
+            <div class="table-toolbar" id="bookings">
+              <input type="search" placeholder="Search name, phone, route" data-booking-search />
+              <select data-status-filter>
+                <option value="All">All status</option>
+                <option>New enquiry</option>
+                <option>Contacted</option>
+                <option>Confirmed</option>
+                <option>Completed</option>
+                <option>Cancelled</option>
+              </select>
+            </div>
+            <div class="booking-list" data-booking-list></div>
+          </article>
+
+          <aside class="panel">
+            <div class="panel-heading">
+              <div>
+                <span class="mini-label">Today</span>
+                <h2>Owner quick actions</h2>
+              </div>
+            </div>
+            <div class="quick-actions">
+              <a href="https://wa.me/919443133465" target="_blank" rel="noreferrer">Open owner WhatsApp</a>
+              <a href="tel:+9104222443533">Call landline</a>
+              <a href="mailto:info@karthiktravels.in">Open email</a>
+            </div>
+            <div class="insight-card">
+              <span>Next idea</span>
+              <strong>Connect this panel to Cloudflare D1</strong>
+              <p>Then every website booking can appear here for the owner from any phone or laptop.</p>
+            </div>
+          </aside>
+        </section>
+
+        <section class="panel management-panel" id="packages">
+          <div class="panel-heading">
+            <div>
+              <span class="mini-label">Package manager</span>
+              <h2>Add, edit and remove travel plans</h2>
+            </div>
+            <div class="inline-actions">
+              <button class="ghost-btn small" type="button" data-reset-packages>Reset source packages</button>
+              <button class="primary-btn small" type="button" data-save-package>Save package</button>
+            </div>
+          </div>
+          <form class="manager-form" data-package-form>
+            <input type="hidden" name="index" />
+            <label>
+              Type
+              <input name="type" placeholder="One Day Package" required />
+            </label>
+            <label>
+              Package name
+              <input name="package" placeholder="Package 1" required />
+            </label>
+            <label class="full-field">
+              Route
+              <textarea name="route" rows="3" placeholder="Coimbatore, Ooty, Coonoor..." required></textarea>
+            </label>
+            <label>
+              Price note
+              <input name="priceNote" placeholder="Ask for vehicle & price" />
+            </label>
+            <label>
+              Image URL
+              <input name="image" placeholder="assets/whatsapp-gallery/whatsapp-trip-01.jpeg" />
+            </label>
+          </form>
+          <div class="package-admin-grid" data-package-admin-grid></div>
+        </section>
+
+        <section class="panel management-panel" id="gallery">
+          <div class="panel-heading">
+            <div>
+              <span class="mini-label">Photo manager</span>
+              <h2>Add and remove website gallery photos</h2>
+            </div>
+            <button class="ghost-btn small" type="button" data-clear-gallery>Clear added photos</button>
+          </div>
+          <form class="photo-form" data-photo-form>
+            <label>
+              Upload photo
+              <input name="photo" type="file" accept="image/*" />
+            </label>
+            <label>
+              Or paste image URL
+              <input name="url" placeholder="assets/whatsapp-gallery/photo.jpeg" />
+            </label>
+            <label>
+              Photo label
+              <input name="alt" placeholder="Tempo traveller interior" />
+            </label>
+            <button class="primary-btn small" type="submit">Add photo</button>
+          </form>
+          <div class="photo-admin-grid" data-photo-admin-grid></div>
+        </section>
+
+        <section class="panel management-panel" id="settings">
+          <div class="panel-heading">
+            <div>
+              <span class="mini-label">Settings</span>
+              <h2>Business contact and booking defaults</h2>
+            </div>
+            <button class="primary-btn small" type="button" data-save-settings>Save settings</button>
+          </div>
+          <form class="manager-form" data-settings-form>
+            <label>
+              Owner WhatsApp
+              <input name="whatsapp" placeholder="+919443133465" />
+            </label>
+            <label>
+              Owner email
+              <input name="email" placeholder="info@karthiktravels.in" />
+            </label>
+            <label>
+              Office phone
+              <input name="phone" placeholder="0422 2443533" />
+            </label>
+            <label class="full-field">
+              Internal note
+              <textarea name="note" rows="3" placeholder="Example: Ask 50% advance before confirming vehicle."></textarea>
+            </label>
+          </form>
+        </section>
+      </main>
+    </div>
+
+    <dialog class="booking-dialog" data-booking-dialog>
+      <form class="booking-form" method="dialog" data-manual-booking-form>
+        <div class="dialog-heading">
+          <div>
+            <span class="mini-label">Booking</span>
+            <h2 data-dialog-title>Add booking</h2>
+          </div>
+          <button class="icon-btn" type="button" data-close-dialog>×</button>
+        </div>
+        <input type="hidden" name="id" />
+        <label>
+          Customer name
+          <input name="customerName" required />
+        </label>
+        <label>
+          Mobile number
+          <input name="phone" required />
+        </label>
+        <label>
+          Travel date
+          <input name="travelDate" type="date" />
+        </label>
+        <label>
+          Passengers
+          <select name="passengers">
+            <option>1 person</option>
+            <option>2 people</option>
+            <option>3-4 people</option>
+            <option>5-8 people</option>
+            <option>More than 8 people</option>
+          </select>
+        </label>
+        <label>
+          Status
+          <select name="status">
+            <option>New enquiry</option>
+            <option>Contacted</option>
+            <option>Confirmed</option>
+            <option>Completed</option>
+            <option>Cancelled</option>
+          </select>
+        </label>
+        <label>
+          Package
+          <input name="packageTitle" placeholder="Ooty family trip" />
+        </label>
+        <label class="full-field">
+          Route / notes
+          <textarea name="route" rows="3"></textarea>
+        </label>
+        <div class="dialog-actions">
+          <button class="ghost-btn" type="button" data-close-dialog>Cancel</button>
+          <button class="primary-btn" type="submit">Save booking</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="admin.js?v=admin-2"></script>
+  </body>
+</html>
