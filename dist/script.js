@@ -31,20 +31,39 @@ let bookingMessage = "Hi, I want to book a trip.";
 
 const featuredImages = [
   "assets/whatsapp-gallery/whatsapp-trip-01.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-02.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-03.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-04.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-05.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-06.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-07.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-08.jpeg",
-  "assets/whatsapp-gallery/whatsapp-trip-09.jpeg",
   "assets/whatsapp-gallery/whatsapp-trip-10.jpeg",
+  "karthiktravels_site_data/images/karthiktravels_in_images_banner_banner05_jpg.jpg",
+  "karthiktravels_site_data/images/karthiktravels_in_gallery_interior_22_jpg.jpg",
+  "karthiktravels_site_data/images/karthiktravels_in_gallery_vehicle_12_jpg.jpg",
+  "assets/whatsapp-gallery/whatsapp-trip-06.jpeg",
 ];
 
 const packageImageOverrides = {
-  "One Day Package:Package 4": "assets/whatsapp-gallery/package-4-vehicle-back-v2.png",
+  "One Day Package:Package 4": "assets/whatsapp-gallery/package-4-vehicle-back-v2.jpeg",
 };
+
+const routeImageRules = [
+  {
+    keywords: ["ooty", "coonor", "coonoor", "kodaikanal", "munnar", "top slip", "valparai", "falls", "dam"],
+    image: "karthiktravels_site_data/images/karthiktravels_in_gallery_vehicle_12_jpg.jpg",
+    position: "center",
+  },
+  {
+    keywords: ["madurai", "rameswaram", "kanyakumari", "guruvayur", "palani", "temple", "isha", "iysa", "marudamalai", "perur"],
+    image: "assets/whatsapp-gallery/whatsapp-trip-01.jpeg",
+    position: "center",
+  },
+  {
+    keywords: ["mysore", "kerala", "cochin", "trivandrum", "bangalore"],
+    image: "karthiktravels_site_data/images/karthiktravels_in_images_banner_banner05_jpg.jpg",
+    position: "center",
+  },
+  {
+    keywords: ["black thunder", "corporate", "school", "college", "group"],
+    image: "karthiktravels_site_data/images/karthiktravels_in_gallery_interior_22_jpg.jpg",
+    position: "center",
+  },
+];
 
 let allPackages = [];
 let activeFilter = "All";
@@ -217,6 +236,25 @@ function escapeAttribute(value) {
     .replace(/>/g, "&gt;");
 }
 
+function packageImageFor(pkg, index) {
+  const overrideKey = `${pkg.type}:${pkg.package}`;
+  if (pkg.image || packageImageOverrides[overrideKey]) {
+    return {
+      src: pkg.image || packageImageOverrides[overrideKey],
+      position: overrideKey.includes("Package 4") ? "center 55%" : "center",
+    };
+  }
+
+  const haystack = `${pkg.route || ""} ${(pkg.places || []).join(" ")}`.toLowerCase();
+  const match = routeImageRules.find((rule) => rule.keywords.some((keyword) => haystack.includes(keyword)));
+  if (match) return { src: match.image, position: match.position };
+
+  return {
+    src: featuredImages[index % featuredImages.length],
+    position: "center",
+  };
+}
+
 function renderPackages() {
   const filtered = activeFilter === "All" ? allPackages : allPackages.filter((pkg) => pkg.type === activeFilter);
   const visible = filtered.slice(0, 6);
@@ -232,7 +270,7 @@ function renderPackages() {
         .map((place) => `<span>${place}</span>`)
         .join("");
       const message = `Hi Karthik Travels, please share details for ${pkg.type} ${pkg.package}: ${pkg.route}`;
-      const image = pkg.image || packageImageOverrides[`${pkg.type}:${pkg.package}`] || featuredImages[index % featuredImages.length];
+      const image = packageImageFor(pkg, index);
       const title = routeSummary(pkg).slice(1, 4).join(" + ") || pkg.package;
       return `
         <article class="package-card reveal in-view">
@@ -246,7 +284,7 @@ function renderPackages() {
             <div class="route-list">${routeTags}</div>
           </div>
           <button class="package-card-action" type="button" data-cart-package="${escapeAttribute(pkg.type)}" data-cart-title="${escapeAttribute(title)}" data-cart-route="${escapeAttribute(pkg.route)}">Ask for vehicle & price</button>
-          <img class="package-card-image" src="${image}" alt="" loading="lazy" />
+          <img class="package-card-image" src="${image.src}" alt="${escapeAttribute(title)} travel vehicle" loading="lazy" style="object-position: ${escapeAttribute(image.position)}" />
         </article>
       `;
     })
